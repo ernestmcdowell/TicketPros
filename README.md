@@ -25,15 +25,15 @@ Here are some of the main features of TicketPros.io:
 6. **User Dashboard:** Users can view their uploaded tickets, the extracted information, and their generated pay reports.
 
 ## Screenshots
-
+# Home Page
 ![Alt text](scrot.png "Optional title")
+# User Dashboard
 ![Alt text](scrot1.png "Optional title")
 ![Alt text](scrot2.png "Optional title")
 ![Alt text](scrot3.png "Optional title")
 ![Alt text](scrot5.png "Optional title")
+# Pay Report Example
 ![Alt text](pdf.png "Optional title")
 
 
-## Contact
 
-For any additional questions or comments, feel free to reach out to me, Ernest McDowell.
