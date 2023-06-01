@@ -2,7 +2,7 @@
 
 ## Overview
 
-TicketPros.io is a specialized platform designed to streamline the process of handling debris load tickets. Built with Django, the application allows users to upload their debris tickets, and then leverages Tesseract OCR and PyTesseract to extract all relevant information from the tickets automatically. The application also includes features to identify errors in the OCR accuracy and generates pay reports based on user input information for each contractor/subcontractor. This repository serves as a showcase of the project and is not open for contributions as it is a private repository.
+[TicketPros.io](https://ticketpros.io) is a specialized platform designed to streamline the process of handling debris load tickets. This application was developed in response to the cumbersome process of manually entering information from thousands of tickets every week to generate pay reports. By leveraging Tesseract OCR and PyTesseract, TicketPros.io automates this process, significantly reducing the workload and potential for human error. Built with Django, the application allows users to upload their debris tickets, and then extracts all relevant information from the tickets automatically. The application also includes features to identify errors in the OCR accuracy and generates pay reports based on user input information for each contractor/subcontractor. This repository serves as a showcase of the project and is not open for contributions as it is a private repository.
 
 ## Technologies Used
 
@@ -15,7 +15,7 @@ TicketPros.io is a specialized platform designed to streamline the process of ha
 
 ## Features
 
-Here are some of the main features of TicketPros.io:
+Here are some of the main features of [TicketPros.io](https://ticketpros.io):
 
 1. **User Authentication:** Secure user registration and login functionality.
 2. **Debris Ticket Upload:** Users can upload their debris load tickets.
