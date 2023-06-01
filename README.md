@@ -26,10 +26,12 @@ Here are some of the main features of TicketPros.io:
 
 ## Screenshots
 
+![Alt text](scrot.png "Optional title")
 ![Alt text](scrot1.png "Optional title")
 ![Alt text](scrot2.png "Optional title")
 ![Alt text](scrot3.png "Optional title")
 ![Alt text](scrot5.png "Optional title")
+![Alt text](pdf.png "Optional title")
 
 
 ## Contact
